@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/logo.png</file>
+        <file>Images/search.png</file>
+        <file>Images/delete.png</file>
+        <file>mainpage/Bucket.qml</file>
+        <file>mainpage/Galery.qml</file>
+        <file>OrderDetail.qml</file>
+        <file>Calendar/Calendar.qml</file>
+        <file>Calendar/List.qml</file>
+    </qresource>
+</RCC>
